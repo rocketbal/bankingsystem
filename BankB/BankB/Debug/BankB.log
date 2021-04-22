@@ -1,0 +1,15 @@
+﻿  bankb.c
+C:\Users\balco\source\repos\BankB\BankB\bankb.c(40,18): warning C4101: 'err1': unreferenced local variable
+C:\Users\balco\source\repos\BankB\BankB\bankb.c(39,18): warning C4101: 'count': unreferenced local variable
+C:\Users\balco\source\repos\BankB\BankB\bankb.c(111,20): warning C4013: 'strstr' undefined; assuming extern returning int
+C:\Users\balco\source\repos\BankB\BankB\bankb.c(111,41): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+C:\Users\balco\source\repos\BankB\BankB\bankb.c(134,23): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\balco\source\repos\BankB\BankB\bankb.c(141,25): warning C4013: 'strtok' undefined; assuming extern returning int
+C:\Users\balco\source\repos\BankB\BankB\bankb.c(156,34): warning C4047: '=': 'char *' differs in levels of indirection from 'int'
+C:\Users\balco\source\repos\BankB\BankB\bankb.c(141,1): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'int'
+C:\Users\balco\source\repos\BankB\BankB\bankb.c(248,41): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+C:\Users\balco\source\repos\BankB\BankB\bankb.c(293,34): warning C4047: '=': 'char *' differs in levels of indirection from 'int'
+C:\Users\balco\source\repos\BankB\BankB\bankb.c(278,1): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'int'
+C:\Users\balco\source\repos\BankB\BankB\bankb.c(387,41): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+C:\Users\balco\source\repos\BankB\BankB\bankb.c(448,41): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+  BankB.vcxproj -> C:\Users\balco\source\repos\BankB\Debug\BankB.exe
